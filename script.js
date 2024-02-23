@@ -1,5 +1,5 @@
-const makeChange = (num) => {
-  // your name here
+const makeChange = (c) => {
+  // your name herey
 	let obj = {
           0: ["Quarter", 0.25],
           1: ["Dime", 0.1],
