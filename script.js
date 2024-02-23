@@ -7,7 +7,7 @@ const makeChange = (c) => {
           3: ["Penny", 0.01],
         };
         let num = c / 100;
-        console.log("hey" + num);
+      
         let arr = [];
         let quarter = 0,
           dime = 0,
